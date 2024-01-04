@@ -1,9 +1,9 @@
 <div align="center">
     <h1>DimitrisCBR</h1>
     <p align="center">
+      👋 Hi, I am dimitris CBR, a full-stack developer based in Athens Greece.📍🇬🇷 <br>
       🏠 <a href="https://dimitriscbr.github.io/">dimitrisCBR.github.io</a> <br>
       📧 <a href="mailto:dimitsigou@gmail.com">dimitsigou@gmail.com</a> <br>
-      👋 Hi, I am dimitris CBR, a full-stack developer based in Athens Greece.📍🇬🇷 <br>
     </p>
 
    
