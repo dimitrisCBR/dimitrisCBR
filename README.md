@@ -13,8 +13,6 @@
       <img alt="stars" src="https://img.shields.io/github/stars/dimitrisCBR?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
       <a href="https://img.shields.io/github/followers/dimitrisCBR">
       <img alt="followers" src="https://img.shields.io/github/followers/dimitrisCBR?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://img.shields.io/gitlab/last-commit/https%3A%2F%2Fgithub.com%2FdimitrisCBR%2FdimitrisCBR">
-      <img alt="last-commit" src="https://img.shields.io/gitlab/last-commit/https%3A%2F%2Fgithub.com%2FdimitrisCBR%2FdimitrisCBR?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
       <a href="https://www.linkedin.com/in/dtsigouris/">
       <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
